@@ -1,4 +1,5 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{2FC6CBF9-99B7-4830-88C0-B0ACFB29AA55}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestFuncApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TaskApi.cs">
     <Files>
       <File FileName="TaskApi.cs" Line="1" Column="1" />
@@ -12,6 +13,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
